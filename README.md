@@ -1,2 +1,2 @@
 # logistic-regression-scratch
-logistic-regression-implimentation-from-scratch
+logistic-regression-implementation-from-scratch
